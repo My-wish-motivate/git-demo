@@ -7,6 +7,7 @@
 7hello zl hello text！
 8hello zl hello text！
 9hello zl hello text！
-10hello zl hello text！master test
+10hello zl hello text！master test  
 10hello zl hello text！ hot-fix test
 11hello zl hello text！
+the end fix is about hot-fix (push test)
